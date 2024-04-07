@@ -1,0 +1,1 @@
+This paper is an algorithm for decoding the atoms of a nucleoside containing deoxyribose. The program only needs an input data file of type .xyz with the name of the atom type and its coordinates in a three-dimensional ismir. And we must not forget about the "math" module.
