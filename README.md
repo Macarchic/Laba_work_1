@@ -1,8 +1,8 @@
 # Laba_work_1
 **Here are my inputs**
 
-![image](https://github.com/Macarchic/Laba_work_1/assets/151094507/46226a2c-2d4c-4c2c-8b30-e3c7ead44c68){:width="50%" height="50%"}
-
+![](){:width="50%" height="50%"}
+<img src="https://github.com/Macarchic/Laba_work_1/assets/151094507/46226a2c-2d4c-4c2c-8b30-e3c7ead44c68" alt="image" width="50" height="100">
 
 **Here's the pdf file I got at the end**
 
