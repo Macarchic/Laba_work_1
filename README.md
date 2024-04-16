@@ -1,4 +1,5 @@
 # Laba_work_1
+Just open file Laba1.ipynb and follow instructions and you will get result. Unfortunately, I have not yet implemented my code as a module that can be imported
 **Here are my inputs**
 
 <img src="https://github.com/Macarchic/Laba_work_1/assets/151094507/46226a2c-2d4c-4c2c-8b30-e3c7ead44c68" alt="image" width="45%" height="45%">
